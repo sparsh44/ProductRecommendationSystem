@@ -1,0 +1,8 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/faiss_index.index
+/nnModel.h5
+/product_encoder.pkl
+/productInformations.csv
+/user_encoder.pkl
